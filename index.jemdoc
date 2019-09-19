@@ -22,10 +22,10 @@ My research interests include
 - Applications of Optimization Methods in Machine Learning, Signal Processing and Control
 
 === Recent Publications 
-- V. V. Mai and M. Johansson, *Nonlinear Acceleration of Constrained Optimization Algorithms*, ICASSP 2019: 4903-4907
-- V. V. Mai and M. Johansson, *Curvature-Exploiting Acceleration of Elastic Net Computations*, ICML 2019: 4294-4303
-- V. V. Mai and M. Johansson, *Noisy Accelerated Power Method for Eigenproblems With Applications*, IEEE Trans. Signal Processing 67(12): 3287-3299 (2019)
-- V. V. Mai and M. Johansson, *Lock-free incremental coordinate descent*, CDC 2017: 2275-2280
+- Vien V. Mai and Mikael Johansson, *Nonlinear Acceleration of Constrained Optimization Algorithms*, 44th International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2019, Brighton, United Kingdom.
+- Vien V. Mai and Mikael Johansson, *Curvature-Exploiting Acceleration of Elastic Net Computations*, 36th International Conference on Machine Learning, ICML 2019, Long Beach, California, United States.
+- Vien V. Mai and Mikael Johansson, *Noisy Accelerated Power Method for Eigenproblems With Applications*, IEEE Trans. Signal Processing, 2019.
+- Vien V. Mai and Mikael Johansson, *Lock-free incremental coordinate descent*, 56th IEEE Conference on Decision and Control, CDC 2017, Melbourne, Australia.
 
 == News
 
