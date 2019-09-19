@@ -1,0 +1,8 @@
+Jemdoc:
+
+
+sudo cp jemdoc.py /usr/bin/jemdoc
+
+sudo chmod 755 /usr/bin/jemdoc
+
+

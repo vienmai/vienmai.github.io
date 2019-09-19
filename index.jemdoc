@@ -1,0 +1,31 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Vien Van Mai
+
+~~~
+{}{img_left}{photos/bio.jpg}{alt text}{131}{160}{http://people.kth.se/~euhanna/}
+PhD student,\n [https://www.kth.se/dcs/division-of-decision-and-control-systems-1.788078 Division of Decision and Control Systems], \n[http://www.kth.se Royal Institute of Technology (KTH)]\n
+Malvinas väg 10 \n
+100 44 Stockholm, Sweden \n 
+E-post: /maivv/ \[@\] kth \[DOT\] se
+~~~
+
+== About me
+I am a Ph.D. student in the Automatic Control Department, School of Electrical Engineering and Computer Science at KTH, working under the supervision of Prof. [https://people.kth.se/~mikaelj/ Mikael Johansson]. I received a BE degree from Posts and Telecommunications Institute of Technology, Viet Nam, in 2013; and an MS degree from Kyung Hee University, South Korea, in 2016. In a previous life, I worked on wireless communications and networking.
+
+My current research focuses on design and analysis of scalable optimization algorithms for computational challenges arising in machine learning and signal processing. I am particularly interested in work at the intersections of continuous optimization with related fields such as numerical linear algebra, statistics, stochastic approximation, and control.
+
+== Research
+My research interests include 
+- First-Order Optimization Methods 
+- Structured Nonsmooth Nonconvex Optimization
+- Parallel and Distributed Computations
+- Applications of Optimization Methods in Machine Learning, Signal Processing and Control
+
+=== Recent Publications 
+. V. V. Mai and M. Johansson, *Nonlinear Acceleration of Constrained Optimization Algorithms*, ICASSP 2019: 4903-4907
+. V. V. Mai and M. Johansson, *Curvature-Exploiting Acceleration of Elastic Net Computations*, ICML 2019: 4294-4303
+. V. V. Mai and M. Johansson, *Noisy Accelerated Power Method for Eigenproblems With Applications*, IEEE Trans. Signal Processing 67(12): 3287-3299 (2019)
+. V. V. Mai and M. Johansson, *Lock-free incremental coordinate descent*, CDC 2017: 2275-2280
+
+== News
+
