@@ -10,22 +10,24 @@ E-post: /maivv/ \[@\] kth \[DOT\] se
 ~~~
 
 == About me
-I am a Ph.D. student in the Decision and Control Systems, School of Electrical Engineering and Computer Science at KTH, working under the supervision of Prof. [https://people.kth.se/~mikaelj/ Mikael Johansson]. I received a BE degree from Posts and Telecommunications Institute of Technology, Viet Nam, in 2013; and an MS degree from Kyung Hee University, South Korea, in 2016. Previously, I worked on wireless communications and networking.
+I am a Ph.D. student in the [https://www.kth.se/dcs/division-of-decision-and-control-systems-1.788078 Division of Decision and Control Systems], [https://www.kth.se/en/eecs/skolan-for-elektroteknik-och-datavetenskap-1.760855 School of Electrical Engineering and Computer Science] at KTH, working under the supervision of Prof. [https://people.kth.se/~mikaelj/ Mikael Johansson]. I received a BE degree from Posts and Telecommunications Institute of Technology, Viet Nam, in 2013; and an MS degree from Kyung Hee University, South Korea, in 2016. Previously, I worked on wireless communications and networking.
 
-My current research focuses on design and analysis of scalable optimization algorithms for computational challenges arising in machine learning and signal processing. I am particularly interested in work at the intersections of continuous optimization with related fields such as numerical linear algebra, statistics, stochastic approximation, and control.
-
-== Research
-My research interests include 
+I study theory and practice of optimization algorithms with an emphasis on large-scale problems that arise in machine learning and signal processing. I am particularly interested in work at the intersections of continuous optimization with related fields such as numerical linear algebra, statistics, stochastic approximation, and control. Some of the topics I have been working on include:
 - First-Order Optimization Methods 
 - Structured Nonsmooth Nonconvex Optimization
 - Parallel and Distributed Computations
 - Applications of Optimization Methods in Machine Learning, Signal Processing and Control
+- Computational Optimal Transport
 
-=== Recent Publications 
+== Recent Publications 
 - Vien V. Mai and Mikael Johansson, *Nonlinear Acceleration of Constrained Optimization Algorithms*, 44th International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2019, Brighton, United Kingdom.
 - Vien V. Mai and Mikael Johansson, *Curvature-Exploiting Acceleration of Elastic Net Computations*, 36th International Conference on Machine Learning, ICML 2019, Long Beach, California, United States.
 - Vien V. Mai and Mikael Johansson, *Noisy Accelerated Power Method for Eigenproblems With Applications*, IEEE Trans. Signal Processing, 2019.
 - Vien V. Mai and Mikael Johansson, *Lock-free incremental coordinate descent*, 56th IEEE Conference on Decision and Control, CDC 2017, Melbourne, Australia.
 
 == News
-
+- August 2019: I attended the [https://iccopt2019.berlin/ 6th International Conference on Continuous Optimization] (ICCOPT), in Berlin, Germany. At the conference, I gave a talk entitled "Anderson acceleration of proximal gradient methods". \[[papers/pres_iccopt2019.pdf slide]\]
+- June 2019: I attended the [https://icml.cc/Conferences/2019 36th International Conference on Machine Learning] (ICML), in  Long Beach, California, United States. At the conference, I presented a paper entitled "Curvature-Exploiting Acceleration of Elastic Net Computations".
+- May 2019: I attended the [https://2019.ieeeicassp.org/ 44th International Conference on Acoustics, Speech, and Signal Processing] (ICASSP), in  Brighton, United Kingdom. At the conference, I presented a paper entitled "Nonlinear Acceleration of Constrained Optimization Algorithms", \[[papers/pres_icassp2019.pdf slide]\]
+- July 2018: I attended the [https://icml.cc/Conferences/2018 35th International Conference on Machine Learning] (ICML), in  Stockholm, Sweden.
+- July 2018: I attended the [https://ismp2018.sciencesconf.org/ triennial international congress of mathematical optimization] (ISMP), in Bordeaux, France. At the conference, I gave a talk entitled "Fast convex optimization for eigenproblems and beyond". \[[papers/pres_ismp2018.pdf slide]\]
