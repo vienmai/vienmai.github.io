@@ -20,10 +20,10 @@ I study theory and practice of optimization algorithms with an emphasis on large
 - Computational Optimal Transport
 
 == Recent Publications 
+- Vien V. Mai and Mikael Johansson, *Anderson Acceleration of Proximal Gradient Methods*, Preprint.
 - Vien V. Mai and Mikael Johansson, *Nonlinear Acceleration of Constrained Optimization Algorithms*, 44th International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2019, Brighton, United Kingdom.
 - Vien V. Mai and Mikael Johansson, *Curvature-Exploiting Acceleration of Elastic Net Computations*, 36th International Conference on Machine Learning, ICML 2019, Long Beach, California, United States.
 - Vien V. Mai and Mikael Johansson, *Noisy Accelerated Power Method for Eigenproblems With Applications*, IEEE Trans. Signal Processing, 2019.
-- Vien V. Mai and Mikael Johansson, *Lock-free incremental coordinate descent*, 56th IEEE Conference on Decision and Control, CDC 2017, Melbourne, Australia.
 
 == News
 - August 2019: I attended the [https://iccopt2019.berlin/ 6th International Conference on Continuous Optimization] (ICCOPT), in Berlin, Germany. At the conference, I gave a talk entitled "Anderson acceleration of proximal gradient methods". \[[papers/pres_iccopt2019.pdf slides]\]

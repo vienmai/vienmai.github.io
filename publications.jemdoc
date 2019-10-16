@@ -2,7 +2,7 @@
 ==Publications
 
 == Optimization for Machine Learning
-
+- Vien V. Mai and Mikael Johansson, *Anderson Acceleration of Proximal Gradient Methods*, Preprint. [AAPGA.pdf pdf]
 - Vien V. Mai and Mikael Johansson, *Nonlinear Acceleration of Constrained Optimization Algorithms*, 44th International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2019, Brighton, United Kingdom. \[[https://ieeexplore.ieee.org/document/8682962 IEEEXplore ]\] \[[papers/AAPGD.pdf pdf]\]
 - Vien V. Mai and Mikael Johansson, *Curvature-Exploiting Acceleration of Elastic Net Computations*, 36th International Conference on Machine Learning, ICML 2019, Long Beach, California, United States. \[[http://proceedings.mlr.press/v97/mai19a/mai19a-supp.pdf Fulltext]\] \[[http://proceedings.mlr.press/v97/mai19a Code]\]
 - Vien V. Mai and Mikael Johansson, *Noisy Accelerated Power Method for Eigenproblems With Applications*, IEEE Trans. Signal Processing, 2019. \[[https://ieeexplore.ieee.org/document/8676090 IEEEXplore]\] \[[https://arxiv.org/pdf/1903.08742.pdf pdf]\]
