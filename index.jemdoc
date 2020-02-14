@@ -20,7 +20,7 @@ I study theory and practice of optimization algorithms with an emphasis on large
 - Computational Optimal Transport
 
 == Recent Publications 
-- Vien V. Mai and Mikael Johansson, *Convergence of a Stochastic Gradient Method with Momentum for Non-Smooth Non-Convex Optimization*, \[pdf coming soon\].
+- Vien V. Mai and Mikael Johansson, *Convergence of a Stochastic Gradient Method with Momentum for Non-Smooth Non-Convex Optimization*, Preprint.
 - Vien V. Mai and Mikael Johansson, *Anderson Acceleration of Proximal Gradient Methods*, Preprint.
 - Vien V. Mai and Mikael Johansson, *Nonlinear Acceleration of Constrained Optimization Algorithms*, 44th International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2019, Brighton, United Kingdom.
 - Vien V. Mai and Mikael Johansson, *Curvature-Exploiting Acceleration of Elastic Net Computations*, 36th International Conference on Machine Learning, ICML 2019, Long Beach, California, United States.
