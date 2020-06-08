@@ -31,6 +31,7 @@ Vien V. Mai and Mikael Johansson\n
 
 == Wireless Networking
 
+<<<<<<< HEAD
 - *Optimal Transmission in MIMO Channels With Multiuser Interference*\n
 Vien V. Mai, Jin Sam Kwak, Youngmin Jeong, Hyundong Shin\n
 /IEEE Transaction on Wireless Communications/, 2018. \[[https://ieeexplore.ieee.org/document/8445713 IEEEXplore]\] \[[papers/TWCOM_OT_MIMO.pdf pdf]\]
@@ -50,3 +51,12 @@ Vien V. Mai, Sang-Woon Jeon, Juyeop Kim, Sang Won Choi, Beomjoo Seo, and Won-Yon
 - *Error exponents for distributed detection*\n 
 Vien V. Mai, Youngmin Jeong, and Hyundong Shin\n
 /IEEE Communications Letters/, 2016. \[[https://ieeexplore.ieee.org/document/7335585 IEEEXplore]\] \[[papers/CL2016.pdf pdf]\]
+=======
+- Vien V. Mai, Jin Sam Kwak, Youngmin Jeong, Hyundong Shin, *Optimal Transmission in MIMO Channels With Multiuser Interference*, IEEE Transaction on Wireless Communications, 2018. \[[https://ieeexplore.ieee.org/document/8445713 IEEEXplore]\] \[[papers/TWCOM_OT_MIMO.pdf pdf]\]
+- Vien V. Mai, Won-Yong Shin, Koji Ishibashi, *Wireless Power Transfer for Distributed Estimation in Sensor Networks*, IEEE Journal of Selected Topics in Signal Processing, 2017. \[[https://ieeexplore.ieee.org/document/7870580 IEEEXplore]\] \[[papers/JSTSP_DEWPT.pdf pdf]\]
+- Won-Yong Shin, Vien V. Mai, Bang Chul Jung, Hyun Jong Yang, *Opportunistic network decoupling with virtual full-duplex operation in multi-source interfering relay networks*, IEEE Transactions on Mobile Computing, 2017. \[[https://ieeexplore.ieee.org/document/7582492 IEEEXplore]\]
+- Vien V. Mai, Sang-Woon Jeon, Juyeop Kim, Sang Won Choi, Beomjoo Seo, and Won-Yong Shin, *Degrees of
+freedom of millimeter wave full-duplex systems with partial CSIT*, IEEE Communications Letters, 2016. \[[https://ieeexplore.ieee.org/abstract/document/7422688 IEEEXplore]\] \[[papers/CL2016-0155.pdf pdf]\]
+- Vien V. Mai, Youngmin Jeong, and Hyundong Shin, *Error exponents for distributed detection*, IEEE
+Communications Letters, 2016. \[[https://ieeexplore.ieee.org/document/7335585 IEEEXplore]\] \[[papers/CL2016.pdf pdf]\]
+>>>>>>> 8a2cc31ca09b676b52322a96f62e5635ba0bfb22
