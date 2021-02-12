@@ -26,6 +26,7 @@ I study theory and practice of optimization algorithms with an emphasis on large
 #- V. V. Mai and M. Johansson, *Noisy Accelerated Power Method for Eigenproblems With #Applications*, IEEE Trans. Signal Processing, 2019.
 
 == News
+- December 2020 & February 2021: I attended two great workshops on [https://enccs.github.io/intermediate-mpi/ Intermediate Topics in MPI] and [https://enccs.github.io/cmake-workshop/ CMake] both organized by the EuroCC  National EuroHPC Competence Center Sweden (ENCCS). 
 - July 2020: I attended the (virtual) [https://icml.cc/Conferences/2020 37th International Conference on Machine Learning] (ICML), where I presented our two recent papers on Anderson acceleration and stochastic gradient descent with momentum. 
 - November 2019: I presented and defended my Licentiate thesis entitled [http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-263147 Large-Scale Optimization With Machine Learning Applications]. I would like to thank Prof. [https://www.di.ens.fr/~aspremon/index.html Alexandre d'Aspremont] for acting as the special reviewer and for his valuable feedback. 
 - August 2019: I attended the [https://iccopt2019.berlin/ 6th International Conference on Continuous Optimization] (ICCOPT), in Berlin, Germany. At the conference, I gave a talk entitled "Anderson acceleration of proximal gradient methods". 
@@ -36,4 +37,4 @@ I study theory and practice of optimization algorithms with an emphasis on large
 - July 2018: I attended the [https://icml.cc/Conferences/2018 35th International Conference on Machine Learning] (ICML), in  Stockholm, Sweden.
 - July 2018: I attended the [https://ismp2018.sciencesconf.org/ triennial international congress of mathematical optimization] (ISMP), in Bordeaux, France. At the conference, I gave a talk entitled "Fast convex optimization for eigenproblems and beyond". 
 #\[[papers/pres_ismp2018.pdf slides]\]
-- December 2017: I attended the [http://cdc2017.ieeecss.org/ 56th IEEE Conference on Decision and Control] (CDC), in  Melbourne, Australia. At the conference, I presented a paper entitled "Lock-free incremental coordinate descent".
+#- December 2017: I attended the [http://cdc2017.ieeecss.org/ 56th IEEE Conference on Decision and Control] (CDC), in  Melbourne, Australia. At the conference, I presented a paper entitled "Lock-free incremental coordinate descent".
