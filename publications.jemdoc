@@ -3,6 +3,9 @@
 
 == Optimization for Machine Learning
 
+- *Stability and Convergence of Stochastic Gradient Clipping: Beyond Lipschitz Continuity and Smoothness*\n
+Vien V. Mai and Mikael Johansson\n
+Preprint, 2021. \[[https://arxiv.org/pdf/2002.05466.pdf pdf]\]
 
 - *Convergence of a Stochastic Gradient Method with Momentum for Non-Smooth Non-Convex Optimization*\n  
 Vien V. Mai and Mikael Johansson\n
