@@ -26,7 +26,7 @@ I study theory and practice of optimization algorithms with an emphasis on large
 #- V. V. Mai and M. Johansson, *Noisy Accelerated Power Method for Eigenproblems With #Applications*, IEEE Trans. Signal Processing, 2019.
 
 == News
-- December 2020 & February 2021: I attended two great workshops on [https://enccs.github.io/intermediate-mpi/ Intermediate Topics in MPI] and [https://enccs.github.io/cmake-workshop/ CMake] both organized by the EuroCC  National EuroHPC Competence Center Sweden (ENCCS). 
+- December 2020 & February 2021: I attended two great workshops on [https://enccs.github.io/intermediate-mpi/ Intermediate Topics in MPI] and [https://enccs.github.io/cmake-workshop/ CMake] both organized by the EuroCC  National EuroHPC Competence Center Sweden [https://enccs.se/ (ENCCS)]. 
 - July 2020: I attended the (virtual) [https://icml.cc/Conferences/2020 37th International Conference on Machine Learning] (ICML), where I presented our two recent papers on Anderson acceleration and stochastic gradient descent with momentum. 
 - November 2019: I presented and defended my Licentiate thesis entitled [http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-263147 Large-Scale Optimization With Machine Learning Applications]. I would like to thank Prof. [https://www.di.ens.fr/~aspremon/index.html Alexandre d'Aspremont] for acting as the special reviewer and for his valuable feedback. 
 - August 2019: I attended the [https://iccopt2019.berlin/ 6th International Conference on Continuous Optimization] (ICCOPT), in Berlin, Germany. At the conference, I gave a talk entitled "Anderson acceleration of proximal gradient methods". 
