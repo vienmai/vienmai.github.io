@@ -3,17 +3,21 @@
 
 == Optimization for Machine Learning
 
+- *A Fast Smoothing Procedure for Large-Scale Stochastic Programming*\n 
+Martin Biel, Vien V. Mai, Mikael Johansson\n
+/Submitted/, 2021.
+
 - *Stability and Convergence of Stochastic Gradient Clipping: Beyond Lipschitz Continuity and Smoothness*\n
 Vien V. Mai and Mikael Johansson\n
-Preprint, 2021. \[[https://arxiv.org/pdf/2102.06489.pdf pdf]\]
+/International Conference on Machine Learning (ICML)/, Online, 2021. \[[https://arxiv.org/pdf/2102.06489.pdf pdf]\] *Full oral presentation*
 
 - *Convergence of a Stochastic Gradient Method with Momentum for Non-Smooth Non-Convex Optimization*\n  
 Vien V. Mai and Mikael Johansson\n
-/International Conference on Machine Learning (ICML)/, 2020. \[[https://arxiv.org/pdf/2002.05466.pdf pdf]\]
+/International Conference on Machine Learning (ICML)/, Online, 2020. \[[https://arxiv.org/pdf/2002.05466.pdf pdf]\]
 
 - *Anderson Acceleration of Proximal Gradient Methods*\n
 Vien V. Mai and Mikael Johansson\n 
-/International Conference on Machine Learning (ICML)/, 2020. \[[https://arxiv.org/pdf/1910.08590.pdf pdf]\] \[[https://github.com/vienmai/AA-Prox code]\]
+/International Conference on Machine Learning (ICML)/, Online, 2020. \[[https://arxiv.org/pdf/1910.08590.pdf pdf]\] \[[https://github.com/vienmai/AA-Prox code]\]
 
 - *Curvature-Exploiting Acceleration of Elastic Net Computations*\n
 Vien V. Mai and Mikael Johansson\n
