@@ -1,11 +1,14 @@
-# jemdoc: menu{MENU}{index.html}, nofooter  
+# jemdoc: menu{MENU}{index.html}, nofooter
 ==Publications
 
 == Optimization for Machine Learning
+- *A Fast and Accurate Splitting Method for Optimal Transport: Analysis and Implementation*\n
+Vien V.~Mai,  Jacob Lindbäck, Mikael Johansson\n
+Preprint, 2021. \[[https://arxiv.org/submit/3991177/view pdf]\] \[[https://github.com/vienmai/drot code]\]
 
 - *A Fast Smoothing Procedure for Large-Scale Stochastic Programming*\n 
 Martin Biel, Vien V. Mai, Mikael Johansson\n
-/Submitted/, 2021.
+/IEEE Conference on Decision and Control (CDC)/, Online, 2021.
 
 - *Stability and Convergence of Stochastic Gradient Clipping: Beyond Lipschitz Continuity and Smoothness*\n
 Vien V. Mai and Mikael Johansson\n
@@ -22,7 +25,6 @@ Vien V. Mai and Mikael Johansson\n
 - *Curvature-Exploiting Acceleration of Elastic Net Computations*\n
 Vien V. Mai and Mikael Johansson\n
 /International Conference on Machine Learning (ICML)/, Long Beach, California, United States, 2019. \[[http://proceedings.mlr.press/v97/mai19a/mai19a-supp.pdf pdf]\] \[[http://proceedings.mlr.press/v97/mai19a code]\]
-
 
 - *Nonlinear Acceleration of Constrained Optimization Algorithms*\n
 Vien V. Mai and Mikael Johansson\n
