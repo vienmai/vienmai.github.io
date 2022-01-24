@@ -4,7 +4,7 @@
 == Optimization for Machine Learning
 - *A Fast and Accurate Splitting Method for Optimal Transport: Analysis and Implementation*\n
 Vien V.~Mai,  Jacob Lindbäck, Mikael Johansson\n
-Preprint, 2021. \[[https://arxiv.org/pdf/2110.11738.pdf pdf]\] \[[https://github.com/vienmai/drot code]\]
+/International Conference on Learning Representations (ICLR)/, Online, 2022. \[[https://arxiv.org/pdf/2110.11738.pdf pdf]\] \[[https://github.com/vienmai/drot code]\]
 
 - *A Fast Smoothing Procedure for Large-Scale Stochastic Programming*\n 
 Martin Biel, Vien V. Mai, Mikael Johansson\n
